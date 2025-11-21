@@ -48,7 +48,7 @@ music_player_app/
 Download Flutter SDK:
 [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 ### **2. Clone the Repository**
-git clone https://github.com/shailaja04/music_player_app.git
+git clone https://github.com/Bjashwanth5/music_player_app.git
 cd music_player_app
 ### **3. Install Dependencies**
 flutter pub get
@@ -75,8 +75,8 @@ Basic widget test included to verify UI elements.
 ## **Run tests:**
 flutter test
 ## **Author**
-Name: Ashwini Shailaja
-GitHub: (https://github.com/shailaja04)
+Name: B Jashwanth
+GitHub: (https://github.com/Bjashwanth5)
 ## **License**
 This project is open-source and free to use.
 ## **Output**
